@@ -5,6 +5,8 @@ Python libraries to install:
 2. pip install sklearn
 3. pip install dlib
 4. pip install imutils
+5. pip install opencv-python
+6. pip install opencv-contrib-python
 
 
 -> Inside dlib library there is pre-trained model called facial landmark detector which locates 68 data points that maps facial structures like eyes,nose,jaw,mouth. 
